@@ -191,3 +191,9 @@ footer {
 .text-right {
   text-align: right;
 }
+
+.content {
+  p:first-of-type {
+    text-align: center;
+  }
+}
