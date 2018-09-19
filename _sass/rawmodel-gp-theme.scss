@@ -4,7 +4,7 @@
 @import "normalize";
 @import "highlight";
 
-$main-bg: #2E67BB;
+$main-bg: #2251A9;
 $code-bg: #132D4F;
 $footer-bg: #152234;
 $highlight: #FFF;
@@ -190,10 +190,4 @@ footer {
 
 .text-right {
   text-align: right;
-}
-
-.content {
-  p:first-of-type {
-    text-align: center;
-  }
 }
